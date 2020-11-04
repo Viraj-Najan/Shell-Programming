@@ -1,0 +1,132 @@
+GET http://localhost:8080/tienda1/index.jsp HTTP/1.1,User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko),Pragma: no-cache,,0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate,0.5, *;q=0.5,Accept-Language: en,,EA414B3E327DED6875848530C864BD8F
+Connection: close,,,,User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko)
+Pragma: no-cache,Cache-control: no-cache,0.9,text/plain;q=0.8,image/png,*/*;q=0.5,,0.5, *;q=0.5
+Accept-Language: en,Host: localhost:8080,54E25FF4B7F0E4E855B112F882E9EEA5,,
+,POST http://localhost:8080/tienda1/publico/anadir.jsp HTTP/1.1,User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko),,Cache-control: no-cache
+0.9,text/plain;q=0.8,image/png,*/*;q=0.5,Accept-Encoding: x-gzip, x-deflate, gzip, deflate,0.5, *;q=0.5,,Host: localhost:8080
+788887A0F479749C4CEEA1E268B4A501,Content-Type: application/x-www-form-urlencoded,Connection: close,,
+1&nombre=Jam%F3n+Ib%E9rico&precio=39&cantidad=41&B1=A%F1adir+al+carrito,,entrar&login=caria&pwd=egipciaca&remember=off&B1=Entrar HTTP/1.1,,Pragma: no-cache
+Cache-control: no-cache,0.9,text/plain;q=0.8,image/png,*/*;q=0.5,Accept-Encoding: x-gzip, x-deflate, gzip, deflate,,Accept-Language: en
+Host: localhost:8080,94ECD5EE8EF7EFE4BB26C701B150ED7B,Connection: close,,
+POST http://localhost:8080/tienda1/publico/autenticar.jsp HTTP/1.1,User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko),Pragma: no-cache,,0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate,0.5, *;q=0.5,Accept-Language: en,,23391DBBADEC19FE01E02D201F278C6A
+Content-Type: application/x-www-form-urlencoded,Connection: close,Content-Length: 60,,entrar&login=caria&pwd=egipciaca&remember=off&B1=Entrar
+,2 HTTP/1.1,User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko),,Cache-control: no-cache
+0.9,text/plain;q=0.8,image/png,*/*;q=0.5,Accept-Encoding: x-gzip, x-deflate, gzip, deflate,0.5, *;q=0.5,,Host: localhost:8080
+98D39BB41546D2A0C7E89F02B01A97F8,Connection: close,,,POST http://localhost:8080/tienda1/publico/caracteristicas.jsp HTTP/1.1
+User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko),Pragma: no-cache,Cache-control: no-cache,,Accept-Encoding: x-gzip, x-deflate, gzip, deflate
+0.5, *;q=0.5,Accept-Language: en,Host: localhost:8080,,Content-Type: application/x-www-form-urlencoded
+Connection: close,Content-Length: 4,,,
+GET http://localhost:8080/tienda1/publico/carrito.jsp HTTP/1.1,User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko),Pragma: no-cache,,0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate,0.5, *;q=0.5,Accept-Language: en,,CBAFAE97F1CE14D899201A5E2C5BE9BD
+Connection: close,,,,User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko)
+Pragma: no-cache,Cache-control: no-cache,0.9,text/plain;q=0.8,image/png,*/*;q=0.5,,0.5, *;q=0.5
+Accept-Language: en,Host: localhost:8080,95C9B50C46067E48242868D8C73A2000,,
+,POST http://localhost:8080/tienda1/publico/entrar.jsp HTTP/1.1,User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko),,Cache-control: no-cache
+0.9,text/plain;q=0.8,image/png,*/*;q=0.5,Accept-Encoding: x-gzip, x-deflate, gzip, deflate,0.5, *;q=0.5,,Host: localhost:8080
+3ECD617061D9FB70E5BA4F9114F08620,Content-Type: application/x-www-form-urlencoded,Connection: close,,
+Credenciales+incorrectas,,GET http://localhost:8080/tienda1/publico/miembros.jsp HTTP/1.1,,Pragma: no-cache
+Cache-control: no-cache,0.9,text/plain;q=0.8,image/png,*/*;q=0.5,Accept-Encoding: x-gzip, x-deflate, gzip, deflate,,Accept-Language: en
+Host: localhost:8080,A5748BB778BF075E0902B57C33AE922B,Connection: close,,
+insertar&precio=3230&B1=Pasar+por+caja HTTP/1.1,User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko),Pragma: no-cache,,0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate,0.5, *;q=0.5,Accept-Language: en,,75788CAE70E544A2E63D43AAFDDF4DE9
+Connection: close,,,,User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko)
+Pragma: no-cache,Cache-control: no-cache,0.9,text/plain;q=0.8,image/png,*/*;q=0.5,,0.5, *;q=0.5
+Accept-Language: en,Host: localhost:8080,F4708896C1E181DD7A89501CCBCC46CF,,Connection: close
+Content-Length: 43,,insertar&precio=3230&B1=Pasar+por+caja,,GET http://localhost:8080/tienda1/publico/productos.jsp HTTP/1.1
+User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko),Pragma: no-cache,Cache-control: no-cache,,Accept-Encoding: x-gzip, x-deflate, gzip, deflate
+0.5, *;q=0.5,Accept-Language: en,Host: localhost:8080,,Connection: close
+,,registro&login=minthorn&password=ahorquillado&nombre=Isra%E9l&apellidos=Luna+Barberan&email=pouyet%40mcrspain.mh&dni=83073375C&direccion=Calle+Pamplona%2C+26+&ciudad=Arrankudiaga&cp=49740&provincia=Huesca&ntc=2656905158370014&B1=Registrar HTTP/1.1,,Pragma: no-cache
+Cache-control: no-cache,0.9,text/plain;q=0.8,image/png,*/*;q=0.5,Accept-Encoding: x-gzip, x-deflate, gzip, deflate,,Accept-Language: en
+Host: localhost:8080,EB0F1BE74F65CBFB341BBBB5FCA1EF7C,Connection: close,,
+POST http://localhost:8080/tienda1/publico/registro.jsp HTTP/1.1,User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko),Pragma: no-cache,,0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate,0.5, *;q=0.5,Accept-Language: en,,97C78A4C2DECDF0F9284DC023E108ABF
+Content-Type: application/x-www-form-urlencoded,Connection: close,Content-Length: 243,,registro&login=minthorn&password=ahorquillado&nombre=Isra%E9l&apellidos=Luna+Barberan&email=pouyet%40mcrspain.mh&dni=83073375C&direccion=Calle+Pamplona%2C+26+&ciudad=Arrankudiaga&cp=49740&provincia=Huesca&ntc=2656905158370014&B1=Registrar
+,Vaciar+carrito HTTP/1.1,User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko),,Cache-control: no-cache
+0.9,text/plain;q=0.8,image/png,*/*;q=0.5,Accept-Encoding: x-gzip, x-deflate, gzip, deflate,0.5, *;q=0.5,,Host: localhost:8080
+39B6478B4D011E2ACA0E209AA749A142,Connection: close,,,POST http://localhost:8080/tienda1/publico/vaciar.jsp HTTP/1.1
+User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko),Pragma: no-cache,Cache-control: no-cache,,Accept-Encoding: x-gzip, x-deflate, gzip, deflate
+0.5, *;q=0.5,Accept-Language: en,Host: localhost:8080,,Content-Type: application/x-www-form-urlencoded
+Connection: close,Content-Length: 17,,,
+GET http://localhost:8080/tienda1/global/creditos.jsp HTTP/1.1,User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko),Pragma: no-cache,,0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate,0.5, *;q=0.5,Accept-Language: en,,8AD85679A035614FA151140953158CAF
+Connection: close,,,,User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko)
+Pragma: no-cache,Cache-control: no-cache,0.9,text/plain;q=0.8,image/png,*/*;q=0.5,,0.5, *;q=0.5
+Accept-Language: en,Host: localhost:8080,7A0E499181179E8A12FD8A9A1DBF52B9,,
+,GET http://localhost:8080/tienda1/global/titulo.jsp HTTP/1.1,User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko),,Cache-control: no-cache
+0.9,text/plain;q=0.8,image/png,*/*;q=0.5,Accept-Encoding: x-gzip, x-deflate, gzip, deflate,0.5, *;q=0.5,,Host: localhost:8080
+E0BC9D6E62346C28680D687FD28DFE89,Connection: close,,,GET http://localhost:8080/tienda1/global/estilos.css HTTP/1.1
+User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko),Pragma: no-cache,Cache-control: no-cache,,Accept-Encoding: x-gzip, x-deflate, gzip, deflate
+0.5, *;q=0.5,Accept-Language: en,Host: localhost:8080,,Connection: close
+,,GET http://localhost:8080/tienda1/miembros/imagenes/castro.jpg HTTP/1.1,,Pragma: no-cache
+Cache-control: no-cache,0.9,text/plain;q=0.8,image/png,*/*;q=0.5,Accept-Encoding: x-gzip, x-deflate, gzip, deflate,,Accept-Language: en
+Host: localhost:8080,8A194E228554F9294A301DDA36506640,Connection: close,,
+GET http://localhost:8080/tienda1/miembros/imagenes/ogono.jpg HTTP/1.1,User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko),Pragma: no-cache,,0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate,0.5, *;q=0.5,Accept-Language: en,,F876044BB07CDB91510B7458DA5834BB
+Connection: close,,,,User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko)
+Pragma: no-cache,Cache-control: no-cache,0.9,text/plain;q=0.8,image/png,*/*;q=0.5,,0.5, *;q=0.5
+Accept-Language: en,Host: localhost:8080,BD95196E0920E84675C024E7759D3490,,
+,GET http://localhost:8080/tienda1/miembros/index.jsp HTTP/1.1,User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko),,Cache-control: no-cache
+0.9,text/plain;q=0.8,image/png,*/*;q=0.5,Accept-Encoding: x-gzip, x-deflate, gzip, deflate,0.5, *;q=0.5,,Host: localhost:8080
+0BA06899BF688FA1C8C51472DB80846F,Connection: close,,,registro&login=nataraja&password=d4upa&nombre=Zoraida&apellidos=Heras+Del+Moral&email=lowry-carmine%40filtraciondehumos.nc&dni=69549902H&direccion=C%2F+Albercuix%2C+27%2C+&ciudad=%C1greda&cp=50369&provincia=Ourense&ntc=0017018534732457&B1=Registrar HTTP/1.1
+User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko),Pragma: no-cache,Cache-control: no-cache,,Accept-Encoding: x-gzip, x-deflate, gzip, deflate
+0.5, *;q=0.5,Accept-Language: en,Host: localhost:8080,,Connection: close
+,,POST http://localhost:8080/tienda1/miembros/editar.jsp HTTP/1.1,,Pragma: no-cache
+Cache-control: no-cache,0.9,text/plain;q=0.8,image/png,*/*;q=0.5,Accept-Encoding: x-gzip, x-deflate, gzip, deflate,,Accept-Language: en
+Host: localhost:8080,7A9463FF9D4CBBA9F336575606ABD39B,Content-Type: application/x-www-form-urlencoded,,Content-Length: 253
+,registro&login=nataraja&password=d4upa&nombre=Zoraida&apellidos=Heras+Del+Moral&email=lowry-carmine%40filtraciondehumos.nc&dni=69549902H&direccion=C%2F+Albercuix%2C+27%2C+&ciudad=%C1greda&cp=50369&provincia=Ourense&ntc=0017018534732457&B1=Registrar,,,User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko)
+Pragma: no-cache,Cache-control: no-cache,0.9,text/plain;q=0.8,image/png,*/*;q=0.5,,0.5, *;q=0.5
+Accept-Language: en,Host: localhost:8080,AA9E07A2ED816765D0A8B36B90C6B895,,
+,GET http://localhost:8080/tienda1/miembros/salir.jsp HTTP/1.1,User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko),,Cache-control: no-cache
+0.9,text/plain;q=0.8,image/png,*/*;q=0.5,Accept-Encoding: x-gzip, x-deflate, gzip, deflate,0.5, *;q=0.5,,Host: localhost:8080
+D842B29914CFD09B3A9E2112AE41DA48,Connection: close,,,GET http://localhost:8080/tienda1/imagenes/1.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko),Pragma: no-cache,Cache-control: no-cache,,Accept-Encoding: x-gzip, x-deflate, gzip, deflate
+0.5, *;q=0.5,Accept-Language: en,Host: localhost:8080,,Connection: close
+,,GET http://localhost:8080/tienda1/imagenes/2.gif HTTP/1.1,,Pragma: no-cache
+Cache-control: no-cache,0.9,text/plain;q=0.8,image/png,*/*;q=0.5,Accept-Encoding: x-gzip, x-deflate, gzip, deflate,,Accept-Language: en
+Host: localhost:8080,1CE937A2C8E5763FD8E3435A0DC9B63E,Connection: close,,
+GET http://localhost:8080/tienda1/imagenes/3.gif HTTP/1.1,User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko),Pragma: no-cache,,0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate,0.5, *;q=0.5,Accept-Language: en,,0D454F9FA9C0E48D1AB3A02E544E4159
+Connection: close,,,,User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko)
+Pragma: no-cache,Cache-control: no-cache,0.9,text/plain;q=0.8,image/png,*/*;q=0.5,,0.5, *;q=0.5
+Accept-Language: en,Host: localhost:8080,017025E3A4B4672826170D285FE2972A,,
+,GET http://localhost:8080/tienda1/imagenes/logo.gif HTTP/1.1,User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko),,Cache-control: no-cache
+0.9,text/plain;q=0.8,image/png,*/*;q=0.5,Accept-Encoding: x-gzip, x-deflate, gzip, deflate,0.5, *;q=0.5,,Host: localhost:8080
+56E22EBA1640C2B52FCEC8D31116AEFD,Connection: close,,,GET http://localhost:8080/tienda1/imagenes/nuestratierra.jpg HTTP/1.1
+User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko),Pragma: no-cache,Cache-control: no-cache,,Accept-Encoding: x-gzip, x-deflate, gzip, deflate
+0.5, *;q=0.5,Accept-Language: en,Host: localhost:8080,,Connection: close
+,,GET http://localhost:8080/tienda1/index.jsp HTTP/1.1,,Pragma: no-cache
+Cache-control: no-cache,0.9,text/plain;q=0.8,image/png,*/*;q=0.5,Accept-Encoding: x-gzip, x-deflate, gzip, deflate,,Accept-Language: en
+Host: localhost:8080,1BFC8895230F8F079B7BE6A4F8422DFD,Connection: close,,
+1&nombre=Queso+Manchego&precio=85&cantidad=65&B1=A%F1adir+al+carrito HTTP/1.1,User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko),Pragma: no-cache,,0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate,0.5, *;q=0.5,Accept-Language: en,,2646EF46460A55A2D82E2B33DD780A0D
+Connection: close,,,,User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko)
+Pragma: no-cache,Cache-control: no-cache,0.9,text/plain;q=0.8,image/png,*/*;q=0.5,,0.5, *;q=0.5
+Accept-Language: en,Host: localhost:8080,4053E62CA3AAE62F822F73ADC9ADF112,,Connection: close
+Content-Length: 71,,1&nombre=Queso+Manchego&precio=85&cantidad=65&B1=A%F1adir+al+carrito,,entrar&login=frayda&pwd=422RdO&remember=off&B1=Entrar HTTP/1.1
+User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko),Pragma: no-cache,Cache-control: no-cache,,Accept-Encoding: x-gzip, x-deflate, gzip, deflate
+0.5, *;q=0.5,Accept-Language: en,Host: localhost:8080,,Connection: close
+,,POST http://localhost:8080/tienda1/publico/autenticar.jsp HTTP/1.1,,Pragma: no-cache
+Cache-control: no-cache,0.9,text/plain;q=0.8,image/png,*/*;q=0.5,Accept-Encoding: x-gzip, x-deflate, gzip, deflate,,Accept-Language: en
+Host: localhost:8080,A95B2AF8FE9EA23BBDF5E0E8545B4D04,Content-Type: application/x-www-form-urlencoded,,Content-Length: 58
+,entrar&login=frayda&pwd=422RdO&remember=off&B1=Entrar,,,User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko)
+Pragma: no-cache,Cache-control: no-cache,0.9,text/plain;q=0.8,image/png,*/*;q=0.5,,0.5, *;q=0.5
+Accept-Language: en,Host: localhost:8080,B9AF5411612E3699883A37671B48FCEE,,
+,POST http://localhost:8080/tienda1/publico/caracteristicas.jsp HTTP/1.1,User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko),,Cache-control: no-cache
+0.9,text/plain;q=0.8,image/png,*/*;q=0.5,Accept-Encoding: x-gzip, x-deflate, gzip, deflate,0.5, *;q=0.5,,Host: localhost:8080
+3F1CB81DE906C9C91315BDD4441D2D40,Content-Type: application/x-www-form-urlencoded,Connection: close,,
+1,,GET http://localhost:8080/tienda1/publico/carrito.jsp HTTP/1.1,,Pragma: no-cache
+Cache-control: no-cache,0.9,text/plain;q=0.8,image/png,*/*;q=0.5,Accept-Encoding: x-gzip, x-deflate, gzip, deflate,,Accept-Language: en
+Host: localhost:8080,F09133CD3D502B88B2E5691FA1B95465,Connection: close,,
+Credenciales+incorrectas HTTP/1.1,User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko),Pragma: no-cache,,0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate,0.5, *;q=0.5,Accept-Language: en,,9913BCD868D10E97DE152FAC84C3532D
+Connection: close,,,,User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko)
+Pragma: no-cache,Cache-control: no-cache,0.9,text/plain;q=0.8,image/png,*/*;q=0.5,,0.5, *;q=0.5
+Accept-Language: en,Host: localhost:8080,29F6071590AF315C6C8CADC58FEE095F,,Connection: close
+Content-Length: 33,,Credenciales+incorrectas,,GET http://localhost:8080/tienda1/publico/miembros.jsp HTTP/1.1
+User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko),Pragma: no-cache,Cache-control: no-cache,,Accept-Encoding: x-gzip, x-deflate, gzip, deflate
+0.5, *;q=0.5,Accept-Language: en,Host: localhost:8080,,Connection: close
+,,insertar&precio=9894&B1=Confirmar HTTP/1.1,,Pragma: no-cache
+Cache-control: no-cache,0.9,text/plain;q=0.8,image/png,*/*;q=0.5,Accept-Encoding: x-gzip, x-deflate, gzip, deflate,,Accept-Language: en
+Host: localhost:8080,D7A66E5AFC3A81EC072DD686EC440E14,Connection: close,,
